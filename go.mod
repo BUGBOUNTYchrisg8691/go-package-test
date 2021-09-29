@@ -1,3 +1,3 @@
-module github.com/BUGBOUNTYchrisg8691/stringutil
+module github.com/BUGBOUNTYchrisg8691/go-package-test
 
 go 1.17
